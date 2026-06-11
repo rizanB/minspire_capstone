@@ -1,0 +1,384 @@
+Trek,Cost_USD,Duration_Days,Max_Altitude_m,Trip_Grade_Ordinal,Accom_Guesthouse,Accom_Lodge,Accom_LuxuryLodge,Accom_Teahouse,Accom_TeahouseLodge,Travel_AprMay_SeptNov,Travel_JanMay_SeptDec,Travel_MarMay_SeptDec,Travel_MarMay_SeptNov,Travel_MarNov
+Everest Base Camp Trek,1420.0,16,5545,4,1,0,0,0,0,0,0,1,0,0
+Everest Base Camp Short Trek,1295.0,14,5545,4,1,0,0,0,0,0,0,1,0,0
+Everest Base Camp Heli Shuttle Trek,2000.0,12,5545,4,1,0,0,0,0,0,0,1,0,0
+Everest Base Camp Heli Trek,3300.0,11,5545,4,1,0,0,0,0,0,0,1,0,0
+Everest Base Camp Trek for Seniors,1800.0,20,5545,4,1,0,0,0,0,0,0,1,0,0
+Everest Chola Pass Trek,1720.0,19,5545,7,1,0,0,0,0,0,0,1,0,0
+Gokyo Lake Renjo La Pass Trek,1450.0,16,5360,4,1,0,0,0,0,0,0,1,0,0
+Everest High Passes Trek,1950.0,22,5545,7,1,0,0,0,0,1,0,0,0,0
+Short Everest Trek,1060.0,7,3900,3,1,0,0,0,0,0,0,1,0,0
+Everest Panorama Trek,1150.0,10,3860,3,1,0,0,0,0,0,1,0,0,0
+Everest View Trek,1100.0,9,3860,3,1,0,0,0,0,0,1,0,0,0
+Luxury Everest Base Camp Heli Trek,4200.0,11,5545,4,0,0,0,1,0,0,0,1,0,0
+Everest Base Camp Trek with Chola and Renjo La Pass,1900.0,21,5545,7,1,0,0,0,0,0,0,0,1,0
+Annapurna Base Camp Trek,1090.0,14,4210,4,1,0,0,0,0,0,0,1,0,0
+Annapurna Base Camp Short Trek,1090.0,11,4210,3,0,0,0,1,0,0,0,1,0,0
+Instant Annapurna Base Camp Trek,980.0,9,4230,4,1,0,0,0,0,0,0,1,0,0
+Annapurna Base Camp Heli Trek,1750.0,9,4210,3,0,0,0,1,0,0,0,1,0,0
+Mardi Himal Trek,850.0,9,4200,3,1,0,0,0,0,0,0,1,0,0
+Mardi Himal Trekking,850.0,8,4200,3,1,0,0,0,0,0,0,1,0,0
+Classic Annapurna Circuit Trek,1350.0,18,5416,4,0,0,0,1,0,0,0,0,1,0
+Annapurna Circuit Trek,1250.0,14,5416,4,0,0,0,1,0,0,0,1,0,0
+Annapurna Circuit Short Trek,1250.0,12,5416,7,1,0,0,0,0,0,0,0,1,0
+Annapurna Luxury Trek,1450.0,9,2012,3,0,0,1,0,0,0,0,1,0,0
+Annapurna Panorama Trek,860.0,9,3210,2,0,0,0,1,0,0,1,0,0,0
+Annapurna Tilicho Lake Trek,1450.0,17,5416,7,1,0,0,0,0,0,0,0,1,0
+Short Annapurna Trek,590.0,5,1990,2,0,1,0,0,0,0,1,0,0,0
+Manaslu Circuit Trek,1450.0,15,5106,7,1,0,0,0,0,0,0,0,1,0
+Manaslu Circuit Trekking,1380.0,14,5220,4,0,0,0,1,0,0,0,0,1,0
+Tsum Valley with Manaslu Trek,1850.0,20,5220,7,1,0,0,0,0,0,0,0,1,0
+Upper Mustang Trek,2150.0,17,4210,3,1,0,0,0,0,0,0,0,1,0
+Upper Mustang Trek with Yara,2300.0,18,4200,3,0,1,0,0,0,0,0,0,0,1
+Upper Mustang Tiji Festival Trek,2150.0,18,4210,3,0,0,0,1,0,0,0,0,1,0
+Langtang Valley Trek,750.0,10,5050,3,0,0,0,1,0,0,0,1,0,0
+Langtang Gosaikunda Trek,1180.0,16,4600,3,1,0,0,0,0,0,0,1,0,0
+Tamang Heritage Trek,920.0,14,5050,3,1,0,0,0,0,0,0,1,0,0
+Tamang Heritage Trail,750.0,8,2607,2,0,0,0,0,1,0,1,0,0,0
+Helambu Trek,780.0,9,3650,2,1,0,0,0,0,0,1,0,0,0
+Annapurna Base Camp Trek,1499.0,11,4130,5,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek for Youths,1750.0,14,5545,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Short Trek,1499.0,14,5545,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek,1499.0,16,5545,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Circuit Trek,1499.0,17,5416,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Luxury Lodge Trek,1499.0,15,5545,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek via Gokyo Lakes and Cho La Pass,1499.0,18,5545,6,1,0,0,0,0,0,1,0,0,0
+Upper Mustang Trek,1499.0,17,3870,5,1,0,0,0,0,0,1,0,0,0
+Everest Advanced Base Camp Trek from Tibet,1499.0,18,6340,5,1,0,0,0,0,0,1,0,0,0
+Gokyo Lakes and Gokyo Ri Trek,1499.0,14,5357,5,1,0,0,0,0,0,1,0,0,0
+Mardi Himal Trek,1499.0,10,3540,4,1,0,0,0,0,0,1,0,0,0
+Manaslu Circuit Trek,1499.0,18,5160,6,1,0,0,0,0,0,1,0,0,0
+Langtang Valley Trek,1499.0,11,5000,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Sanctuary Trek,1499.0,14,4130,5,1,0,0,0,0,0,1,0,0,0
+Rara Lake Trek,1499.0,15,3055,4,1,0,0,0,0,0,1,0,0,0
+Everest High Passes Trek,1499.0,20,5546,6,1,0,0,0,0,0,1,0,0,0
+Kanchenjunga Circuit Trek,1499.0,25,5143,6,1,0,0,0,0,0,1,0,0,0
+Everest View Trek,1499.0,12,3870,3,1,0,0,0,0,0,1,0,0,0
+Tsum Valley Trek,1499.0,19,6000,6,1,0,0,0,0,0,1,0,0,0
+The Royal Trek,1499.0,9,1730,4,1,0,0,0,0,0,1,0,0,0
+Makalu Base Camp Trek,1499.0,22,4870,8,1,0,0,0,0,0,1,0,0,0
+"Langtang, Gosainkunda and Helambu Trek",1499.0,17,5000,4,1,0,0,0,0,0,1,0,0,0
+Nar Phu Valley Trek,1499.0,19,5416,6,1,0,0,0,0,0,1,0,0,0
+Annapurna Circle Trek,1499.0,14,5416,6,1,0,0,0,0,0,1,0,0,0
+Everest Kangshung Face Trek,1499.0,21,5320,8,1,0,0,0,0,0,1,0,0,0
+Tsum Valley and Manaslu Trek,1499.0,27,4460,6,1,0,0,0,0,0,1,0,0,0
+Khopra Ridge Community Trek,1499.0,13,4500,5,1,0,0,0,0,0,1,0,0,0
+Nepal Experience Tour,1499.0,12,3210,1,1,0,0,0,0,0,1,0,0,0
+Annapurna Circuit Trek with Tilicho Lake and Poon Hill,1499.0,20,5416,6,1,0,0,0,0,0,1,0,0,0
+Annapurna With Tilicho Lake Trek,1499.0,17,5416,6,1,0,0,0,0,0,1,0,0,0
+Langtang Valley Trek with Ganja la Pass,1499.0,14,5122,8,1,0,0,0,0,0,1,0,0,0
+Tamang Heritage Trek,1499.0,14,3870,4,1,0,0,0,0,0,1,0,0,0
+Manaslu and Annapurna Trek with Tilicho Lake,1499.0,25,5416,6,1,0,0,0,0,0,1,0,0,0
+Nepal Trekking and Everest Himalaya Heli Tour,1499.0,7,5545,4,1,0,0,0,0,0,1,0,0,0
+Nepal Hiking and Culture Tour,1499.0,8,1550,4,1,0,0,0,0,0,1,0,0,0
+Annapurna Sunrise and Everest View Trek,1499.0,17,3870,4,1,0,0,0,0,0,1,0,0,0
+Tenzing Hillary Everest Marathon,1499.0,20,5545,8,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek,1450.0,16,5545,5,1,0,0,0,0,0,1,0,0,0
+Everest Kalapathar Trekking,1390.0,15,5545,5,1,0,0,0,0,0,1,0,0,0
+Everest Panorama Trek,1040.0,10,3860,3,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek via Gokyo Lake,1530.0,19,5545,5,1,0,0,0,0,0,1,0,0,0
+Gokyo Lake Trek,1190.0,13,5357,4,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Heli Trek,3600.0,9,5545,4,1,0,0,0,0,0,1,0,0,0
+Annapurna Circuit Trek,1100.0,19,5416,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Base Camp Trek,1090.0,16,4130,4,1,0,0,0,0,0,1,0,0,0
+Ghorepani Poon Hill Trek,450.0,10,3210,2,1,0,0,0,0,0,1,0,0,0
+Upper Mustang Trek,2100.0,17,4200,5,1,0,0,0,0,0,1,0,0,0
+Mardi Himal Trek,590.0,9,4500,3,1,0,0,0,0,0,1,0,0,0
+Langtang Valley Trekking,690.0,11,4773,4,1,0,0,0,0,0,1,0,0,0
+Manaslu Circuit Trek,1190.0,17,5220,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Base Camp Trek,1090.0,14,4210,4,1,0,0,0,0,0,0,1,0,0
+Annapurna Base Camp Short Trek,1090.0,11,4210,3,0,0,0,1,0,0,0,1,0,0
+Instant Annapurna Base Camp Trek,980.0,9,4230,4,1,0,0,0,0,0,0,1,0,0
+Annapurna Base Camp Heli Trek,1750.0,9,4210,3,0,0,0,1,0,0,0,1,0,0
+Mardi Himal Trek,850.0,9,4200,3,1,0,0,0,0,0,0,1,0,0
+Mardi Himal Trekking,850.0,8,4200,3,1,0,0,0,0,0,0,1,0,0
+Classic Annapurna Circuit Trek,1350.0,18,5416,4,0,0,0,1,0,0,0,0,1,0
+Annapurna Circuit Trek,1250.0,14,5416,4,0,0,0,1,0,0,0,1,0,0
+Annapurna Circuit Short Trek,1250.0,12,5416,7,1,0,0,0,0,0,0,0,1,0
+Annapurna Luxury Trek,1450.0,9,2012,3,0,0,1,0,0,0,0,1,0,0
+Annapurna Panorama Trek,860.0,9,3210,2,0,0,0,1,0,0,1,0,0,0
+Annapurna Tilicho Lake Trek,1450.0,17,5416,7,1,0,0,0,0,0,0,0,1,0
+Short Annapurna Trek,590.0,5,1990,2,0,1,0,0,0,0,1,0,0,0
+Manaslu Circuit Trek,1450.0,15,5106,7,1,0,0,0,0,0,0,0,1,0
+Manaslu Circuit Trekking,1380.0,14,5220,4,0,0,0,1,0,0,0,0,1,0
+Tsum Valley with Manaslu Trek,1850.0,20,5220,7,1,0,0,0,0,0,0,0,1,0
+Upper Mustang Trek,2150.0,17,4210,3,1,0,0,0,0,0,0,0,1,0
+Upper Mustang Trek with Yara,2300.0,18,4200,3,0,1,0,0,0,0,0,0,0,1
+Upper Mustang Tiji Festival Trek,2150.0,18,4210,3,0,0,0,1,0,0,0,0,1,0
+Langtang Valley Trek,750.0,10,5050,3,0,0,0,1,0,0,0,1,0,0
+Langtang Gosaikunda Trek,1180.0,16,4600,3,1,0,0,0,0,0,0,1,0,0
+Tamang Heritage Trek,920.0,14,5050,3,1,0,0,0,0,0,0,1,0,0
+Tamang Heritage Trail,750.0,8,2607,2,0,0,0,0,1,0,1,0,0,0
+Helambu Trek,780.0,9,3650,2,1,0,0,0,0,0,1,0,0,0
+Annapurna Base Camp Trek,1499.0,11,4130,5,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek for Youths,1750.0,14,5545,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Short Trek,1499.0,14,5545,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek,1499.0,16,5545,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Circuit Trek,1499.0,17,5416,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Luxury Lodge Trek,1499.0,15,5545,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek via Gokyo Lakes and Cho La Pass,1499.0,18,5545,6,1,0,0,0,0,0,1,0,0,0
+Upper Mustang Trek,1499.0,17,3870,5,1,0,0,0,0,0,1,0,0,0
+Everest Advanced Base Camp Trek from Tibet,1499.0,18,6340,5,1,0,0,0,0,0,1,0,0,0
+Gokyo Lakes and Gokyo Ri Trek,1499.0,14,5357,5,1,0,0,0,0,0,1,0,0,0
+Mardi Himal Trek,1499.0,10,3540,4,1,0,0,0,0,0,1,0,0,0
+Manaslu Circuit Trek,1499.0,18,5160,6,1,0,0,0,0,0,1,0,0,0
+Langtang Valley Trek,1499.0,11,5000,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Sanctuary Trek,1499.0,14,4130,5,1,0,0,0,0,0,1,0,0,0
+Rara Lake Trek,1499.0,15,3055,4,1,0,0,0,0,0,1,0,0,0
+Everest High Passes Trek,1499.0,20,5546,6,1,0,0,0,0,0,1,0,0,0
+Kanchenjunga Circuit Trek,1499.0,25,5143,6,1,0,0,0,0,0,1,0,0,0
+Everest View Trek,1499.0,12,3870,3,1,0,0,0,0,0,1,0,0,0
+Tsum Valley Trek,1499.0,19,6000,6,1,0,0,0,0,0,1,0,0,0
+The Royal Trek,1499.0,9,1730,4,1,0,0,0,0,0,1,0,0,0
+Makalu Base Camp Trek,1499.0,22,4870,8,1,0,0,0,0,0,1,0,0,0
+"Langtang, Gosainkunda and Helambu Trek",1499.0,17,5000,4,1,0,0,0,0,0,1,0,0,0
+Nar Phu Valley Trek,1499.0,19,5416,6,1,0,0,0,0,0,1,0,0,0
+Annapurna Circle Trek,1499.0,14,5416,6,1,0,0,0,0,0,1,0,0,0
+Everest Kangshung Face Trek,1499.0,21,5320,8,1,0,0,0,0,0,1,0,0,0
+Tsum Valley and Manaslu Trek,1499.0,27,4460,6,1,0,0,0,0,0,1,0,0,0
+Khopra Ridge Community Trek,1499.0,13,4500,5,1,0,0,0,0,0,1,0,0,0
+Nepal Experience Tour,1499.0,12,3210,1,1,0,0,0,0,0,1,0,0,0
+Annapurna Circuit Trek with Tilicho Lake and Poon Hill,1499.0,20,5416,6,1,0,0,0,0,0,1,0,0,0
+Annapurna With Tilicho Lake Trek,1499.0,17,5416,6,1,0,0,0,0,0,1,0,0,0
+Langtang Valley Trek with Ganja la Pass,1499.0,14,5122,8,1,0,0,0,0,0,1,0,0,0
+Tamang Heritage Trek,1499.0,14,3870,4,1,0,0,0,0,0,1,0,0,0
+Manaslu and Annapurna Trek with Tilicho Lake,1499.0,25,5416,6,1,0,0,0,0,0,1,0,0,0
+Nepal Trekking and Everest Himalaya Heli Tour,1499.0,7,5545,4,1,0,0,0,0,0,1,0,0,0
+Nepal Hiking and Culture Tour,1499.0,8,1550,4,1,0,0,0,0,0,1,0,0,0
+Annapurna Sunrise and Everest View Trek,1499.0,17,3870,4,1,0,0,0,0,0,1,0,0,0
+Tenzing Hillary Everest Marathon,1499.0,20,5545,8,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek,1450.0,16,5545,5,1,0,0,0,0,0,1,0,0,0
+Everest Kalapathar Trekking,1390.0,15,5545,5,1,0,0,0,0,0,1,0,0,0
+Everest Panorama Trek,1040.0,10,3860,3,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek via Gokyo Lake,1530.0,19,5545,5,1,0,0,0,0,0,1,0,0,0
+Gokyo Lake Trek,1190.0,13,5357,4,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Heli Trek,3600.0,9,5545,4,1,0,0,0,0,0,1,0,0,0
+Annapurna Circuit Trek,1100.0,19,5416,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Base Camp Trek,1090.0,16,4130,4,1,0,0,0,0,0,1,0,0,0
+Ghorepani Poon Hill Trek,450.0,10,3210,2,1,0,0,0,0,0,1,0,0,0
+Upper Mustang Trek,2100.0,17,4200,5,1,0,0,0,0,0,1,0,0,0
+Mardi Himal Trek,590.0,9,4500,3,1,0,0,0,0,0,1,0,0,0
+Langtang Valley Trekking,690.0,11,4773,4,1,0,0,0,0,0,1,0,0,0
+Manaslu Circuit Trek,1190.0,17,5220,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Base Camp Trek,1090.0,14,4210,4,1,0,0,0,0,0,0,1,0,0
+Annapurna Base Camp Short Trek,1090.0,11,4210,3,0,0,0,1,0,0,0,1,0,0
+Instant Annapurna Base Camp Trek,980.0,9,4230,4,1,0,0,0,0,0,0,1,0,0
+Annapurna Base Camp Heli Trek,1750.0,9,4210,3,0,0,0,1,0,0,0,1,0,0
+Mardi Himal Trek,850.0,9,4200,3,1,0,0,0,0,0,0,1,0,0
+Mardi Himal Trekking,850.0,8,4200,3,1,0,0,0,0,0,0,1,0,0
+Classic Annapurna Circuit Trek,1350.0,18,5416,4,0,0,0,1,0,0,0,0,1,0
+Annapurna Circuit Trek,1250.0,14,5416,4,0,0,0,1,0,0,0,1,0,0
+Annapurna Circuit Short Trek,1250.0,12,5416,7,1,0,0,0,0,0,0,0,1,0
+Annapurna Luxury Trek,1450.0,9,2012,3,0,0,1,0,0,0,0,1,0,0
+Annapurna Panorama Trek,860.0,9,3210,2,0,0,0,1,0,0,1,0,0,0
+Annapurna Tilicho Lake Trek,1450.0,17,5416,7,1,0,0,0,0,0,0,0,1,0
+Short Annapurna Trek,590.0,5,1990,2,0,1,0,0,0,0,1,0,0,0
+Manaslu Circuit Trek,1450.0,15,5106,7,1,0,0,0,0,0,0,0,1,0
+Manaslu Circuit Trekking,1380.0,14,5220,4,0,0,0,1,0,0,0,0,1,0
+Tsum Valley with Manaslu Trek,1850.0,20,5220,7,1,0,0,0,0,0,0,0,1,0
+Upper Mustang Trek,2150.0,17,4210,3,1,0,0,0,0,0,0,0,1,0
+Upper Mustang Trek with Yara,2300.0,18,4200,3,0,1,0,0,0,0,0,0,0,1
+Upper Mustang Tiji Festival Trek,2150.0,18,4210,3,0,0,0,1,0,0,0,0,1,0
+Langtang Valley Trek,750.0,10,5050,3,0,0,0,1,0,0,0,1,0,0
+Langtang Gosaikunda Trek,1180.0,16,4600,3,1,0,0,0,0,0,0,1,0,0
+Tamang Heritage Trek,920.0,14,5050,3,1,0,0,0,0,0,0,1,0,0
+Tamang Heritage Trail,750.0,8,2607,2,0,0,0,0,1,0,1,0,0,0
+Helambu Trek,780.0,9,3650,2,1,0,0,0,0,0,1,0,0,0
+Annapurna Base Camp Trek,1499.0,11,4130,5,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek for Youths,1750.0,14,5545,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Short Trek,1499.0,14,5545,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek,1499.0,16,5545,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Circuit Trek,1499.0,17,5416,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Luxury Lodge Trek,1499.0,15,5545,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek via Gokyo Lakes and Cho La Pass,1499.0,18,5545,6,1,0,0,0,0,0,1,0,0,0
+Upper Mustang Trek,1499.0,17,3870,5,1,0,0,0,0,0,1,0,0,0
+Everest Advanced Base Camp Trek from Tibet,1499.0,18,6340,5,1,0,0,0,0,0,1,0,0,0
+Gokyo Lakes and Gokyo Ri Trek,1499.0,14,5357,5,1,0,0,0,0,0,1,0,0,0
+Mardi Himal Trek,1499.0,10,3540,4,1,0,0,0,0,0,1,0,0,0
+Manaslu Circuit Trek,1499.0,18,5160,6,1,0,0,0,0,0,1,0,0,0
+Langtang Valley Trek,1499.0,11,5000,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Sanctuary Trek,1499.0,14,4130,5,1,0,0,0,0,0,1,0,0,0
+Rara Lake Trek,1499.0,15,3055,4,1,0,0,0,0,0,1,0,0,0
+Everest High Passes Trek,1499.0,20,5546,6,1,0,0,0,0,0,1,0,0,0
+Kanchenjunga Circuit Trek,1499.0,25,5143,6,1,0,0,0,0,0,1,0,0,0
+Everest View Trek,1499.0,12,3870,3,1,0,0,0,0,0,1,0,0,0
+Tsum Valley Trek,1499.0,19,6000,6,1,0,0,0,0,0,1,0,0,0
+The Royal Trek,1499.0,9,1730,4,1,0,0,0,0,0,1,0,0,0
+Makalu Base Camp Trek,1499.0,22,4870,8,1,0,0,0,0,0,1,0,0,0
+"Langtang, Gosainkunda and Helambu Trek",1499.0,17,5000,4,1,0,0,0,0,0,1,0,0,0
+Nar Phu Valley Trek,1499.0,19,5416,6,1,0,0,0,0,0,1,0,0,0
+Annapurna Circle Trek,1499.0,14,5416,6,1,0,0,0,0,0,1,0,0,0
+Everest Kangshung Face Trek,1499.0,21,5320,8,1,0,0,0,0,0,1,0,0,0
+Tsum Valley and Manaslu Trek,1499.0,27,4460,6,1,0,0,0,0,0,1,0,0,0
+Khopra Ridge Community Trek,1499.0,13,4500,5,1,0,0,0,0,0,1,0,0,0
+Nepal Experience Tour,1499.0,12,3210,1,1,0,0,0,0,0,1,0,0,0
+Annapurna Circuit Trek with Tilicho Lake and Poon Hill,1499.0,20,5416,6,1,0,0,0,0,0,1,0,0,0
+Annapurna With Tilicho Lake Trek,1499.0,17,5416,6,1,0,0,0,0,0,1,0,0,0
+Langtang Valley Trek with Ganja la Pass,1499.0,14,5122,8,1,0,0,0,0,0,1,0,0,0
+Tamang Heritage Trek,1499.0,14,3870,4,1,0,0,0,0,0,1,0,0,0
+Manaslu and Annapurna Trek with Tilicho Lake,1499.0,25,5416,6,1,0,0,0,0,0,1,0,0,0
+Nepal Trekking and Everest Himalaya Heli Tour,1499.0,7,5545,4,1,0,0,0,0,0,1,0,0,0
+Nepal Hiking and Culture Tour,1499.0,8,1550,4,1,0,0,0,0,0,1,0,0,0
+Annapurna Sunrise and Everest View Trek,1499.0,17,3870,4,1,0,0,0,0,0,1,0,0,0
+Tenzing Hillary Everest Marathon,1499.0,20,5545,8,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek,1450.0,16,5545,5,1,0,0,0,0,0,1,0,0,0
+Everest Kalapathar Trekking,1390.0,15,5545,5,1,0,0,0,0,0,1,0,0,0
+Everest Panorama Trek,1040.0,10,3860,3,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek via Gokyo Lake,1530.0,19,5545,5,1,0,0,0,0,0,1,0,0,0
+Gokyo Lake Trek,1190.0,13,5357,4,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Heli Trek,3600.0,9,5545,4,1,0,0,0,0,0,1,0,0,0
+Annapurna Circuit Trek,1100.0,19,5416,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Base Camp Trek,1090.0,16,4130,4,1,0,0,0,0,0,1,0,0,0
+Ghorepani Poon Hill Trek,450.0,10,3210,2,1,0,0,0,0,0,1,0,0,0
+Upper Mustang Trek,2100.0,17,4200,5,1,0,0,0,0,0,1,0,0,0
+Mardi Himal Trek,590.0,9,4500,3,1,0,0,0,0,0,1,0,0,0
+Langtang Valley Trekking,690.0,11,4773,4,1,0,0,0,0,0,1,0,0,0
+Manaslu Circuit Trek,1190.0,17,5220,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Base Camp Trek,1090.0,14,4210,4,1,0,0,0,0,0,0,1,0,0
+Annapurna Base Camp Short Trek,1090.0,11,4210,3,0,0,0,1,0,0,0,1,0,0
+Instant Annapurna Base Camp Trek,980.0,9,4230,4,1,0,0,0,0,0,0,1,0,0
+Annapurna Base Camp Heli Trek,1750.0,9,4210,3,0,0,0,1,0,0,0,1,0,0
+Mardi Himal Trek,850.0,9,4200,3,1,0,0,0,0,0,0,1,0,0
+Mardi Himal Trekking,850.0,8,4200,3,1,0,0,0,0,0,0,1,0,0
+Classic Annapurna Circuit Trek,1350.0,18,5416,4,0,0,0,1,0,0,0,0,1,0
+Annapurna Circuit Trek,1250.0,14,5416,4,0,0,0,1,0,0,0,1,0,0
+Annapurna Circuit Short Trek,1250.0,12,5416,7,1,0,0,0,0,0,0,0,1,0
+Annapurna Luxury Trek,1450.0,9,2012,3,0,0,1,0,0,0,0,1,0,0
+Annapurna Panorama Trek,860.0,9,3210,2,0,0,0,1,0,0,1,0,0,0
+Annapurna Tilicho Lake Trek,1450.0,17,5416,7,1,0,0,0,0,0,0,0,1,0
+Short Annapurna Trek,590.0,5,1990,2,0,1,0,0,0,0,1,0,0,0
+Manaslu Circuit Trek,1450.0,15,5106,7,1,0,0,0,0,0,0,0,1,0
+Manaslu Circuit Trekking,1380.0,14,5220,4,0,0,0,1,0,0,0,0,1,0
+Tsum Valley with Manaslu Trek,1850.0,20,5220,7,1,0,0,0,0,0,0,0,1,0
+Upper Mustang Trek,2150.0,17,4210,3,1,0,0,0,0,0,0,0,1,0
+Upper Mustang Trek with Yara,2300.0,18,4200,3,0,1,0,0,0,0,0,0,0,1
+Upper Mustang Tiji Festival Trek,2150.0,18,4210,3,0,0,0,1,0,0,0,0,1,0
+Langtang Valley Trek,750.0,10,5050,3,0,0,0,1,0,0,0,1,0,0
+Langtang Gosaikunda Trek,1180.0,16,4600,3,1,0,0,0,0,0,0,1,0,0
+Tamang Heritage Trek,920.0,14,5050,3,1,0,0,0,0,0,0,1,0,0
+Tamang Heritage Trail,750.0,8,2607,2,0,0,0,0,1,0,1,0,0,0
+Helambu Trek,780.0,9,3650,2,1,0,0,0,0,0,1,0,0,0
+Annapurna Base Camp Trek,1499.0,11,4130,5,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek for Youths,1750.0,14,5545,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Short Trek,1499.0,14,5545,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek,1499.0,16,5545,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Circuit Trek,1499.0,17,5416,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Luxury Lodge Trek,1499.0,15,5545,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek via Gokyo Lakes and Cho La Pass,1499.0,18,5545,6,1,0,0,0,0,0,1,0,0,0
+Upper Mustang Trek,1499.0,17,3870,5,1,0,0,0,0,0,1,0,0,0
+Everest Advanced Base Camp Trek from Tibet,1499.0,18,6340,5,1,0,0,0,0,0,1,0,0,0
+Gokyo Lakes and Gokyo Ri Trek,1499.0,14,5357,5,1,0,0,0,0,0,1,0,0,0
+Mardi Himal Trek,1499.0,10,3540,4,1,0,0,0,0,0,1,0,0,0
+Manaslu Circuit Trek,1499.0,18,5160,6,1,0,0,0,0,0,1,0,0,0
+Langtang Valley Trek,1499.0,11,5000,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Sanctuary Trek,1499.0,14,4130,5,1,0,0,0,0,0,1,0,0,0
+Rara Lake Trek,1499.0,15,3055,4,1,0,0,0,0,0,1,0,0,0
+Everest High Passes Trek,1499.0,20,5546,6,1,0,0,0,0,0,1,0,0,0
+Kanchenjunga Circuit Trek,1499.0,25,5143,6,1,0,0,0,0,0,1,0,0,0
+Everest View Trek,1499.0,12,3870,3,1,0,0,0,0,0,1,0,0,0
+Tsum Valley Trek,1499.0,19,6000,6,1,0,0,0,0,0,1,0,0,0
+The Royal Trek,1499.0,9,1730,4,1,0,0,0,0,0,1,0,0,0
+Makalu Base Camp Trek,1499.0,22,4870,8,1,0,0,0,0,0,1,0,0,0
+"Langtang, Gosainkunda and Helambu Trek",1499.0,17,5000,4,1,0,0,0,0,0,1,0,0,0
+Nar Phu Valley Trek,1499.0,19,5416,6,1,0,0,0,0,0,1,0,0,0
+Annapurna Circle Trek,1499.0,14,5416,6,1,0,0,0,0,0,1,0,0,0
+Everest Kangshung Face Trek,1499.0,21,5320,8,1,0,0,0,0,0,1,0,0,0
+Tsum Valley and Manaslu Trek,1499.0,27,4460,6,1,0,0,0,0,0,1,0,0,0
+Khopra Ridge Community Trek,1499.0,13,4500,5,1,0,0,0,0,0,1,0,0,0
+Nepal Experience Tour,1499.0,12,3210,1,1,0,0,0,0,0,1,0,0,0
+Annapurna Circuit Trek with Tilicho Lake and Poon Hill,1499.0,20,5416,6,1,0,0,0,0,0,1,0,0,0
+Annapurna With Tilicho Lake Trek,1499.0,17,5416,6,1,0,0,0,0,0,1,0,0,0
+Langtang Valley Trek with Ganja la Pass,1499.0,14,5122,8,1,0,0,0,0,0,1,0,0,0
+Tamang Heritage Trek,1499.0,14,3870,4,1,0,0,0,0,0,1,0,0,0
+Manaslu and Annapurna Trek with Tilicho Lake,1499.0,25,5416,6,1,0,0,0,0,0,1,0,0,0
+Nepal Trekking and Everest Himalaya Heli Tour,1499.0,7,5545,4,1,0,0,0,0,0,1,0,0,0
+Nepal Hiking and Culture Tour,1499.0,8,1550,4,1,0,0,0,0,0,1,0,0,0
+Annapurna Sunrise and Everest View Trek,1499.0,17,3870,4,1,0,0,0,0,0,1,0,0,0
+Tenzing Hillary Everest Marathon,1499.0,20,5545,8,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek,1450.0,16,5545,5,1,0,0,0,0,0,1,0,0,0
+Everest Kalapathar Trekking,1390.0,15,5545,5,1,0,0,0,0,0,1,0,0,0
+Everest Panorama Trek,1040.0,10,3860,3,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek via Gokyo Lake,1530.0,19,5545,5,1,0,0,0,0,0,1,0,0,0
+Gokyo Lake Trek,1190.0,13,5357,4,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Heli Trek,3600.0,9,5545,4,1,0,0,0,0,0,1,0,0,0
+Annapurna Circuit Trek,1100.0,19,5416,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Base Camp Trek,1090.0,16,4130,4,1,0,0,0,0,0,1,0,0,0
+Ghorepani Poon Hill Trek,450.0,10,3210,2,1,0,0,0,0,0,1,0,0,0
+Upper Mustang Trek,2100.0,17,4200,5,1,0,0,0,0,0,1,0,0,0
+Mardi Himal Trek,590.0,9,4500,3,1,0,0,0,0,0,1,0,0,0
+Langtang Valley Trekking,690.0,11,4773,4,1,0,0,0,0,0,1,0,0,0
+Manaslu Circuit Trek,1190.0,17,5220,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Base Camp Trek,1090.0,14,4210,4,1,0,0,0,0,0,0,1,0,0
+Annapurna Base Camp Short Trek,1090.0,11,4210,3,0,0,0,1,0,0,0,1,0,0
+Instant Annapurna Base Camp Trek,980.0,9,4230,4,1,0,0,0,0,0,0,1,0,0
+Annapurna Base Camp Heli Trek,1750.0,9,4210,3,0,0,0,1,0,0,0,1,0,0
+Mardi Himal Trek,850.0,9,4200,3,1,0,0,0,0,0,0,1,0,0
+Mardi Himal Trekking,850.0,8,4200,3,1,0,0,0,0,0,0,1,0,0
+Classic Annapurna Circuit Trek,1350.0,18,5416,4,0,0,0,1,0,0,0,0,1,0
+Annapurna Circuit Trek,1250.0,14,5416,4,0,0,0,1,0,0,0,1,0,0
+Annapurna Circuit Short Trek,1250.0,12,5416,7,1,0,0,0,0,0,0,0,1,0
+Annapurna Luxury Trek,1450.0,9,2012,3,0,0,1,0,0,0,0,1,0,0
+Annapurna Panorama Trek,860.0,9,3210,2,0,0,0,1,0,0,1,0,0,0
+Annapurna Tilicho Lake Trek,1450.0,17,5416,7,1,0,0,0,0,0,0,0,1,0
+Short Annapurna Trek,590.0,5,1990,2,0,1,0,0,0,0,1,0,0,0
+Manaslu Circuit Trek,1450.0,15,5106,7,1,0,0,0,0,0,0,0,1,0
+Manaslu Circuit Trekking,1380.0,14,5220,4,0,0,0,1,0,0,0,0,1,0
+Tsum Valley with Manaslu Trek,1850.0,20,5220,7,1,0,0,0,0,0,0,0,1,0
+Upper Mustang Trek,2150.0,17,4210,3,1,0,0,0,0,0,0,0,1,0
+Upper Mustang Trek with Yara,2300.0,18,4200,3,0,1,0,0,0,0,0,0,0,1
+Upper Mustang Tiji Festival Trek,2150.0,18,4210,3,0,0,0,1,0,0,0,0,1,0
+Langtang Valley Trek,750.0,10,5050,3,0,0,0,1,0,0,0,1,0,0
+Langtang Gosaikunda Trek,1180.0,16,4600,3,1,0,0,0,0,0,0,1,0,0
+Tamang Heritage Trek,920.0,14,5050,3,1,0,0,0,0,0,0,1,0,0
+Tamang Heritage Trail,750.0,8,2607,2,0,0,0,0,1,0,1,0,0,0
+Helambu Trek,780.0,9,3650,2,1,0,0,0,0,0,1,0,0,0
+Annapurna Base Camp Trek,1499.0,11,4130,5,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek for Youths,1750.0,14,5545,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Short Trek,1499.0,14,5545,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek,1499.0,16,5545,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Circuit Trek,1499.0,17,5416,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Luxury Lodge Trek,1499.0,15,5545,6,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek via Gokyo Lakes and Cho La Pass,1499.0,18,5545,6,1,0,0,0,0,0,1,0,0,0
+Upper Mustang Trek,1499.0,17,3870,5,1,0,0,0,0,0,1,0,0,0
+Everest Advanced Base Camp Trek from Tibet,1499.0,18,6340,5,1,0,0,0,0,0,1,0,0,0
+Gokyo Lakes and Gokyo Ri Trek,1499.0,14,5357,5,1,0,0,0,0,0,1,0,0,0
+Mardi Himal Trek,1499.0,10,3540,4,1,0,0,0,0,0,1,0,0,0
+Manaslu Circuit Trek,1499.0,18,5160,6,1,0,0,0,0,0,1,0,0,0
+Langtang Valley Trek,1499.0,11,5000,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Sanctuary Trek,1499.0,14,4130,5,1,0,0,0,0,0,1,0,0,0
+Rara Lake Trek,1499.0,15,3055,4,1,0,0,0,0,0,1,0,0,0
+Everest High Passes Trek,1499.0,20,5546,6,1,0,0,0,0,0,1,0,0,0
+Kanchenjunga Circuit Trek,1499.0,25,5143,6,1,0,0,0,0,0,1,0,0,0
+Everest View Trek,1499.0,12,3870,3,1,0,0,0,0,0,1,0,0,0
+Tsum Valley Trek,1499.0,19,6000,6,1,0,0,0,0,0,1,0,0,0
+The Royal Trek,1499.0,9,1730,4,1,0,0,0,0,0,1,0,0,0
+Makalu Base Camp Trek,1499.0,22,4870,8,1,0,0,0,0,0,1,0,0,0
+"Langtang, Gosainkunda and Helambu Trek",1499.0,17,5000,4,1,0,0,0,0,0,1,0,0,0
+Nar Phu Valley Trek,1499.0,19,5416,6,1,0,0,0,0,0,1,0,0,0
+Annapurna Circle Trek,1499.0,14,5416,6,1,0,0,0,0,0,1,0,0,0
+Everest Kangshung Face Trek,1499.0,21,5320,8,1,0,0,0,0,0,1,0,0,0
+Tsum Valley and Manaslu Trek,1499.0,27,4460,6,1,0,0,0,0,0,1,0,0,0
+Khopra Ridge Community Trek,1499.0,13,4500,5,1,0,0,0,0,0,1,0,0,0
+Nepal Experience Tour,1499.0,12,3210,1,1,0,0,0,0,0,1,0,0,0
+Annapurna Circuit Trek with Tilicho Lake and Poon Hill,1499.0,20,5416,6,1,0,0,0,0,0,1,0,0,0
+Annapurna With Tilicho Lake Trek,1499.0,17,5416,6,1,0,0,0,0,0,1,0,0,0
+Langtang Valley Trek with Ganja la Pass,1499.0,14,5122,8,1,0,0,0,0,0,1,0,0,0
+Tamang Heritage Trek,1499.0,14,3870,4,1,0,0,0,0,0,1,0,0,0
+Manaslu and Annapurna Trek with Tilicho Lake,1499.0,25,5416,6,1,0,0,0,0,0,1,0,0,0
+Nepal Trekking and Everest Himalaya Heli Tour,1499.0,7,5545,4,1,0,0,0,0,0,1,0,0,0
+Nepal Hiking and Culture Tour,1499.0,8,1550,4,1,0,0,0,0,0,1,0,0,0
+Annapurna Sunrise and Everest View Trek,1499.0,17,3870,4,1,0,0,0,0,0,1,0,0,0
+Tenzing Hillary Everest Marathon,1499.0,20,5545,8,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek,1450.0,16,5545,5,1,0,0,0,0,0,1,0,0,0
+Everest Kalapathar Trekking,1390.0,15,5545,5,1,0,0,0,0,0,1,0,0,0
+Everest Panorama Trek,1040.0,10,3860,3,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Trek via Gokyo Lake,1530.0,19,5545,5,1,0,0,0,0,0,1,0,0,0
+Gokyo Lake Trek,1190.0,13,5357,4,1,0,0,0,0,0,1,0,0,0
+Everest Base Camp Heli Trek,3600.0,9,5545,4,1,0,0,0,0,0,1,0,0,0
+Annapurna Circuit Trek,1100.0,19,5416,5,1,0,0,0,0,0,1,0,0,0
+Annapurna Base Camp Trek,1090.0,16,4130,4,1,0,0,0,0,0,1,0,0,0
+Ghorepani Poon Hill Trek,450.0,10,3210,2,1,0,0,0,0,0,1,0,0,0
+Upper Mustang Trek,2100.0,17,4200,5,1,0,0,0,0,0,1,0,0,0
+Mardi Himal Trek,590.0,9,4500,3,1,0,0,0,0,0,1,0,0,0
+Langtang Valley Trekking,690.0,11,4773,4,1,0,0,0,0,0,1,0,0,0
+Manaslu Circuit Trek,1190.0,17,5220,5,1,0,0,0,0,0,1,0,0,0
